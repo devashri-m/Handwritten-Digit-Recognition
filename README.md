@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 This introductory project focuses on building your skills with Python and some of the libraries and tools you will need to work with neural network models. <br>
-**Dataset**
+**Dataset:** <Br>
 The Optical recognition of handwritten digits dataset, included with the scikit-learn library, consists of 8✕8 grayscale images of hand-written digits sorted into classes 0-9. Once the dataset has been loaded, the feature vectors and labels are accessible as the data and targets attributes.<br>
 **Tasks:**<br>
 1.	Split the dataset into training and test sets, then train a fully-connected neural network to recognize the digits. You will need to determine the size and number of layers, activation functions, and other hyperparameters. You can see a similar example using Keras as Problem 21 in the Programming Exercises and Sample Code.
